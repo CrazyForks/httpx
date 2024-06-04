@@ -21,9 +21,9 @@ twine==5.1.0
 coverage[toml]==7.5.3
 cryptography==42.0.7
 mypy==1.10.0
-pytest==8.2.1
+pytest==8.2.2
 ruff==0.4.7
 trio==0.25.1
 trio-typing==0.10.0
 trustme==1.1.0
-uvicorn==0.30.0
+uvicorn==0.30.1
